@@ -1,3 +1,13 @@
+# 교수자 강의자료
 http://gitlab.ideacube.co.kr/ideacube/githubcopilot
 
+# 자립 ppt 시안
 https://www.miricanvas.com/ko/templates/youtube_video_full/1dxb4-%EC%A3%BC%ED%99%A9%EC%9D%98-%EB%AA%A8%EB%8D%98%ED%95%9C%20%EC%B0%BD%EB%A6%BD%EA%B8%B0%EB%85%90%EC%9D%BC%20%EC%B6%95%ED%95%98%20%EB%B0%8F%20%EA%B0%90%EC%82%AC%20%EC%98%81%EC%83%81%20%EC%86%8C%EA%B0%9C%EC%84%9C
+
+# 전자정부 UI/UX 표준
+https://v04.krds.go.kr/guide/index.html
+
+# 전자정부 UI/UX 표준 2025 발표자료
+https://maven.egovframe.go.kr/publist/HDD1/public/event/20251205/06.%20%EC%A0%95%EB%B3%B4%ED%99%94%EC%82%AC%EC%97%85%EB%8B%B4%EB%8B%B9%EC%9E%90%20%EA%B5%90%EC%9C%A1-%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%86%8C%EA%B0%9C%20%EB%B0%8F%20%EC%A0%81%EC%9A%A9%20%EA%B0%80%EC%9D%B4%EB%93%9C%20(%EC%8B%A0%EC%9A%A9%ED%98%B8%20%EC%9D%B4%EC%82%AC).pdf
+https://maven.egovframe.go.kr/publist/HDD1/public/event/20251205/04.%20%EA%B3%B5%EA%B3%B5%20%EB%B6%80%EB%AC%B8%20AI%20%EC%BD%94%EB%94%A9%20%ED%99%9C%EC%9A%A9%20%EC%82%AC%EB%A1%80%20%EB%B0%8F%20%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%B6%94%EC%A7%84%EB%B0%A9%ED%96%A5%20%EC%A0%9C%EC%96%B8%20(%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%A0%95%EB%B3%B4%EC%9B%90%20%EA%B9%80%EC%84%B1%ED%9B%88%20%EB%B3%B8%EB%B6%80%EC%9E%A5).pdf
+https://maven.egovframe.go.kr/publist/HDD1/public/event/20251205/03.%20%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%8B%A0%EA%B7%9C%EB%B2%84%EC%A0%84(v5.0)%20%EC%86%8C%EA%B0%9C%20(%EC%9C%A4%EC%B0%BD%EC%9B%90%20%EC%9D%B4%EC%82%AC).pdf
